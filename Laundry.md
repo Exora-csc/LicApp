@@ -4,7 +4,7 @@
     "status":"aktif",
     "lisensi":{"devid":"12345",
                "tglexp":"1/12/2023"}, 
-   {"appname":"Andien Laundry",
+   {"appname":"Laundry Lain",
        "status":"aktif",
        "lisensi":{"devid":"12345",
                   "tglexp":"1/12/2023"}
