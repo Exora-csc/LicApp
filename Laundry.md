@@ -2,11 +2,17 @@
 "data":[
         {"appname":"Andien Laundry",
          "status":"aktif",
-         "lisensi":{"devid":"12345",
-               "tglexp":"1/12/2023"}, 
-   {"appname":"Laundry Lain",
-       "status":"aktif",
-       "lisensi":{"devid":"12345",
-                  "tglexp":"1/12/2023"}
-    ]
+         "lisensi":{
+                    "devid":"12345",
+                    "tglexp":"1/12/2023"
+                   }
+        }, 
+        {"appname":"Laundry Lain",
+         "status":"aktif",
+         "lisensi":{
+                    "devid":"12345",
+                    "tglexp":"1/12/2023"
+                   }
+        }
+      ]
 }
